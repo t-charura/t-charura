@@ -1,14 +1,21 @@
 <!-- TODO: Add a banner -->
 
 <h1 align="center">Hi 👋, I'm Tendai Charura</h1>
-<h3 align="center">A passionate Data Scientist with Focus on AI & Automation</h3>
+<!-- <h3 align="center">A passionate Data Scientist with a Focus on AI & Automation</h3> -->
 
+<div align="center">
+  <img src="https://img.shields.io/badge/-Data%20Scientist-blue?style=for-the-badge" alt="Data Scientist"/>
+  <img src="https://img.shields.io/badge/-AI%20Enthusiast-green?style=for-the-badge" alt="AI Enthusiast"/>
+  <img src="https://img.shields.io/badge/-Automation%20Expert-orange?style=for-the-badge" alt="Automation Expert"/>
+</div>
+
+---
 
 - 🌍 Location: Remote, Bangkok at the moment
 - 🧠 Currently learning
   - Different AI agent frameworks
   - Swahili with the help of  my own Python Package: [LTF](https://github.com/t-charura/language-transfer-flashcards)
-- 💬 Ask me about: Python | AI Agents | Automation
+- 💬 Ask me about: Python | AI Agents | Automation | Data Science
 - 👨‍🎓 M.Sc. Economics, University of Cologne
 - ⚡ Fun fact: Starred in a [TV commercial](https://www.youtube.com/watch?v=auRZvgPeYik) with Dirk Nowitzki
 
@@ -23,8 +30,9 @@
 
 <p align="left">
 
-- 🌐 My Website: [https://charura.com/](http://charura.com)
+- 🌐 Website: [https://charura.com/](http://charura.com)
 - ✉️ Email: tendai@charura.com
+
 
 </p>
 
