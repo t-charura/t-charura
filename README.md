@@ -11,12 +11,12 @@
 
 ---
 
-- 🌍 Location: Remote, Bangkok at the moment
-- 🧠 Currently learning
-  - Different AI agent frameworks
-  - Swahili with the help of  my own Python Package: [LTF](https://github.com/t-charura/language-transfer-flashcards)
+- 🧠 Currently learning:
+    - Different AI agent frameworks
+    - Swahili with the help of my own Python Package: [LTF](https://github.com/t-charura/language-transfer-flashcards)
 - 💬 Ask me about: Python | AI Agents | Automation | Data Science
 - 👨‍🎓 M.Sc. Economics, University of Cologne
+- 🌍 Location: Remote, Bangkok at the moment
 - ⚡ Fun fact: Starred in a [TV commercial](https://www.youtube.com/watch?v=auRZvgPeYik) with Dirk Nowitzki
 
 <!-- 
@@ -33,11 +33,13 @@
 - 🌐 Website: [https://charura.com/](http://charura.com)
 - ✉️ Email: tendai@charura.com
 
-
 </p>
 
- 
+
 <h2 align="left">Languages and Tools</h2>
+
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGFhN2N4dTF2Y294ZjhveXBheWd3amJ5czJzcGh2eDA4bXVndGY2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.webp" width="185">
+
 
 <p align="left"> 
 
@@ -51,7 +53,6 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="35" height="35" alt="Docker" /></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="35" height="35" alt="Fast API" /></a>
-
 
 <b>Familiar</b>
 
