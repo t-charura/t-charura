@@ -16,7 +16,6 @@
     - Swahili with the help of my own Python Package: [LTF](https://github.com/t-charura/language-transfer-flashcards)
 - 💬 Ask me about: Python | AI Agents | Automation | Data Science
 - 👨‍🎓 M.Sc. Economics, University of Cologne
-- 🌍 Location: Remote, Bangkok at the moment
 - ⚡ Fun fact: Starred in a [TV commercial](https://www.youtube.com/watch?v=auRZvgPeYik) with Dirk Nowitzki
 
 <!-- 
