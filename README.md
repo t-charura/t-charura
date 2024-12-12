@@ -13,9 +13,11 @@
 
 - 🧠 Currently learning:
     - Different AI agent frameworks
+    - Low-Code tools for rapid prototyping
     - Swahili with the help of my own Python Package: [LTF](https://github.com/t-charura/language-transfer-flashcards)
 - 💬 Ask me about: Python | AI Agents | Automation | Data Science
 - 👨‍🎓 M.Sc. Economics, University of Cologne
+- 🌍 Location: Remote
 - ⚡ Fun fact: Starred in a [TV commercial](https://www.youtube.com/watch?v=auRZvgPeYik) with Dirk Nowitzki
 
 <!-- 
@@ -31,6 +33,7 @@
 
 - 🌐 Website: [https://charura.com/](http://charura.com)
 - ✉️ Email: tendai@charura.com
+- ✒️ Medium: [@Tendai.Charura](https://medium.com/@tendai.charura)
 
 </p>
 
