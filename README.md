@@ -31,7 +31,7 @@
 
 <p align="left">
 
-- 🌐 Website: [https://charura.com/](http://charura.com)
+- 🌐 Website: [https://omniautomata.com/](https://omniautomata.com/)
 - ✉️ Email: tendai@charura.com
 - ✒️ Medium: [@Tendai.Charura](https://medium.com/@tendai.charura)
 
