@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Tendai Charura</h1>
 <!-- <h3 align="center">A passionate Data Scientist with a Focus on AI & Automation</h3> -->
 
+𝐎𝐌𝐍𝐈𝐀𝐔𝐓𝐎𝐌𝐀𝐓𝐀.𝐂𝐎𝐌 | I help businesses save time, cut costs, and eliminate errors by automating manual processes. My mission is to make AI and automation simple and accessible for small and medium-sized enterprises (SMEs) with limited IT resources.
+
 <div align="center">
   <img src="https://img.shields.io/badge/-Data%20Scientist-blue?style=for-the-badge" alt="Data Scientist"/>
   <img src="https://img.shields.io/badge/-AI%20Enthusiast-green?style=for-the-badge" alt="AI Enthusiast"/>
@@ -11,6 +13,7 @@
 
 ---
 
+- 🔭 Working on my business [Omni Automata](https://omniautomata.com/) 
 - 🧠 Currently learning:
     - Different AI agent frameworks
     - Low-Code tools for rapid prototyping
@@ -21,7 +24,7 @@
 - ⚡ Fun fact: Starred in a [TV commercial](https://www.youtube.com/watch?v=auRZvgPeYik) with Dirk Nowitzki
 
 <!-- 
-- 🔭 I’m currently working on [Project 1](Link)
+- 
 - 📝 I regularly write articles on [Medium](Medium) 
 - 📄 Know about my experiences [CV link](CV link) 
 -->
@@ -31,9 +34,11 @@
 
 <p align="left">
 
-- 🌐 Website: [https://omniautomata.com/](https://omniautomata.com/)
-- ✉️ Email: tendai@charura.com
-- ✒️ Medium: [@Tendai.Charura](https://medium.com/@tendai.charura)
+- 🔗 [LinkedIn](www.linkedin.com/in/tendai-charura)
+- ✒️ [Medium](https://medium.com/@tendai.charura)
+- ✉️ Email
+  - privat: tendai@charura.com
+  - business: hello@omniautomata.com
 
 </p>
 
