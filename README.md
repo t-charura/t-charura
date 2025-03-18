@@ -37,7 +37,7 @@
 - 🔗 [LinkedIn](www.linkedin.com/in/tendai-charura)
 - ✒️ [Medium](https://medium.com/@tendai.charura)
 - ✉️ Email
-  - privat: tendai@charura.com
+  - private: tendai@charura.com
   - business: hello@omniautomata.com
 
 </p>
